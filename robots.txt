@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sorelhurst.com/sin-raya/sitemap.xml
